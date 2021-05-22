@@ -1,0 +1,5 @@
+This calculator works through PyQt5, If you want to use it.
+You have to install it.
+
+Besides this is a Beta Version, I have to add the 
+Gra and Rad mode for trigonometric functions
